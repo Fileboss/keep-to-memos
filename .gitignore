@@ -1,0 +1,5 @@
+__pycache__/
+*.zip
+*.zip.tmp
+!tests/fixtures/*.zip
+.DS_Store

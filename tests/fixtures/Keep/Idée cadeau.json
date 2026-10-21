@@ -1,0 +1,26 @@
+{
+  "title": "",
+  "textContent": "Livre de cuisine vu sur https://exemple.org/livre\nÀ vérifier.",
+  "createdTimestampUsec": 1700086400000000,
+  "userEditedTimestampUsec": 1700090000000000,
+  "annotations": [
+    {
+      "url": "https://exemple.org/livre",
+      "title": "Livre",
+      "source": "WEBLINK"
+    },
+    {
+      "url": "https://exemple.net/boutique",
+      "title": "Boutique [promo]",
+      "source": "WEBLINK"
+    }
+  ],
+  "champInconnu": {
+    "x": 1
+  },
+  "sharees": [
+    {
+      "email": "personne@example.com"
+    }
+  ]
+}

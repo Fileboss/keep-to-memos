@@ -1,0 +1,16 @@
+{
+  "title": "Jardin",
+  "textContent": "Les tomates poussent.",
+  "attachments": [
+    {
+      "filePath": "1a2b3c4d.jpeg",
+      "mimetype": "image/jpeg"
+    }
+  ],
+  "createdTimestampUsec": 1700432000000000,
+  "labels": [
+    {
+      "name": "!!!"
+    }
+  ]
+}

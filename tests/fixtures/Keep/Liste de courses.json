@@ -1,0 +1,31 @@
+{
+  "color": "YELLOW",
+  "isTrashed": false,
+  "isPinned": true,
+  "isArchived": false,
+  "title": "Courses",
+  "userEditedTimestampUsec": 1700003600000000,
+  "createdTimestampUsec": 1700000000000000,
+  "listContent": [
+    {
+      "text": "Pain",
+      "isChecked": false
+    },
+    {
+      "text": "Lait\ndemi-écrémé",
+      "isChecked": true
+    },
+    {
+      "text": "",
+      "isChecked": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "Maison"
+    },
+    {
+      "name": "Courses Été 2024!"
+    }
+  ]
+}
